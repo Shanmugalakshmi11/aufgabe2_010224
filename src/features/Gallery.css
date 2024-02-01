@@ -1,0 +1,17 @@
+/* Gallery.css */
+.gallery-container {
+  border: 2px solid #ccc;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+.gallery-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gallery-content img {
+  width: 30%;
+  margin-right: 10px;
+}

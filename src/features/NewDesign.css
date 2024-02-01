@@ -1,0 +1,8 @@
+/* NewDesign.css */
+.new-design-container {
+  border: 2px solid #5cb85c;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #dff0d8;
+  text-align: center;
+}
